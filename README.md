@@ -2,7 +2,7 @@
 
 ### In 2019 I received the scholarship from Facebook to learn secure and private AI technologies, during which I completed a 60-day coding/learning challenge. 
 
-
+![FB Scholarship](/assets/FB_AI_Scholarship_LauraT.png)
 
 
 6.27.19
