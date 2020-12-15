@@ -36,7 +36,7 @@
 3. More style transfer lessons in Deep Learning with PyTorch
 4. Installed osx command line tools for my Mac
 5. Completed Lesson 3 Introducing Differential Privacy
-6. A big shout out to  
+
 
 6.30.19
 #60DaysofUdacity *Day 4*
@@ -98,7 +98,6 @@
 2. Learned about various GPU servers: https://medium.com/@rupak.thakur/aws-vs-paperspace-vs-floydhub-choosing-your-cloud-gpu-partner-350150606b39
 3. Signed up for Hackermoon 
 4. Completed Lesson 5: Introducing Local and Global Differential Privacy
-5. I’d like to encourage my study buddies @sa @ @ @  - you all inspired me to keep going every day.  Thank you! 
 
 
 
