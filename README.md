@@ -25,7 +25,7 @@
 3. Began the T-shirt project with the amazing @Elizabeth W
 4. Began the style transfer coursein Deep Learning with PyTorch
 5. Began Lesson 3 Differential Privacy
-6. I’d like to encourage @
+
 
 
 6.29.19
