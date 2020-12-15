@@ -1,6 +1,6 @@
-### Facebook Private and Secure AI Scholarship 60 days of Udacity challenge
+# Facebook Private and Secure AI Scholarship 60 days of Udacity challenge
 
-## In 2019 I received the scholarship from Facebook to learn secure and private AI technologies, during which I completed a 60-day coding/learning challenge. 
+### In 2019 I received the scholarship from Facebook to learn secure and private AI technologies, during which I completed a 60-day coding/learning challenge. 
 
 
 
